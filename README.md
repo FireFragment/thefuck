@@ -208,6 +208,7 @@ following rules are enabled by default:
 * `cat_dir` &ndash; replaces `cat` with `ls` when you try to `cat` a directory;
 * `cd_correction` &ndash; spellchecks and correct failed cd commands;
 * `cd_cs` &ndash; changes `cs` to `cd`;
+* `cd_quotes` &ndash; adds quotes around directories with spaces in filenames when cd'ing into them;
 * `cd_mkdir` &ndash; creates directories before cd'ing into them;
 * `cd_parent` &ndash; changes `cd..` to `cd ..`;
 * `chmod_x` &ndash; add execution bit;
